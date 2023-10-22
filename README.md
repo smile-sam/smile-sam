@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 [![smile-sam-github](https://github-readme-stats.vercel.app/api?username=smile-sam)](https://github.com/anuraghazra/github-readme-stats)
 
-[![smile-sam-github](https://github-readme-stats.vercel.app/api?username=smile-sam)](https://github.com/anuraghazra/github-readme-stats)
-
-[![smile-sam-github](https://github-readme-stats.vercel.app/api?username=smile-sam)](https://github.com/anuraghazra/github-readme-stats)
-
 ![smile-sam GitHub stats](https://github-readme-stats.vercel.app/api?username=smile-sam&show_icons=true&bg_color=00000000)
 
 
